@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Виктория
 
-<!--
-**VictoriaYurova/VictoriaYurova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ученица 8 класса | 💻 Программист | 🎨 3D-художник
 
-Here are some ideas to get you started:
+## 👩‍💻 Обо мне
+Я создаю цифровые проекты на стыке кода и творчества. 
+Мне интересно программировать, моделировать в 3D и видеть, как идеи оживают.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мои навыки
+
+### 💻 Программирование
+- Языки: Python (изучаю)
+- Инструменты: GitHub, VS Code
+
+### 🎨 3D-моделирование
+- Программы: Blender
+- Навыки: Моделирование, текстурирование, рендер
+
+
+## 🏆 Достижения
+- [ ] Сертификаты по программированию
+- [ ] Участие в олимпиадах / конкурсах по 3D
+
+## 📬 Как со мной связаться
+- 📧 Email: [iurova.yurova@yandex.ru]
+- 💬 GitHub: Напиши мне в Issues или Discussions *(если хочешь альтернативу)*
+- 🎨 Портфолио 3D: [ссылка на ArtStation / Sketchfab / Behance — *если есть*]
+
+---
+*Спасибо, что заглянули! ⭐ Если тебе интересно сотрудничество — пиши!*
