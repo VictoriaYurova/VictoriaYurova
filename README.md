@@ -22,12 +22,7 @@
 - [ ] Участие в олимпиадах / конкурсах по 3D
 
 ## 📬 Как со мной связаться
-
-<p align="center">
-  <a href="mailto:victoria.creates@yandex.ru?subject=Привет%20из%20GitHub&body=Здравствуйте,%20Виктория!%20Мне%20понравилось%20ваше%20портфолио...">
-    <img src="https://img.shields.io/badge/Написать_мне-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Написать на почту">
-  </a>
-</p>
+- 📧 Email: [victoria.creates@yandex.ru]
 
 ---
 *Спасибо, что заглянули! ⭐ Если тебе интересно сотрудничество — пиши!*
