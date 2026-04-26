@@ -18,7 +18,7 @@
 
 
 ## 🏆 Достижения
-- 📜 [Мои сертификаты и дипломы](https://github.com/Victoria Yurova/certificates) — полная коллекция подтверждений навыков.
+- 📜 [Мои сертификаты и дипломы](https://github.com/VictoriaYurova/certificates) — полная коллекция подтверждений навыков.
 
 ## 📬 Как со мной связаться
 - 📧 Email: [victoria.creates@yandex.ru]
